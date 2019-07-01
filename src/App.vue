@@ -1,7 +1,10 @@
 <template>
-  <div id="app">
+  <div id="app" class="w-3/5 mx-auto p-6">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to WeFlyp"/>
+    <div class="bg-purple-600 text-white sm:bg-green md:bg-blue md:text-yellow lg:bg-red xl:bg-orange">
+      Test
+    </div>
   </div>
 </template>
 
@@ -17,12 +20,5 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
