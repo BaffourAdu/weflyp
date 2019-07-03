@@ -9,8 +9,8 @@
         </div>
         <div class="w-full flex flex-col md:flex-shrink lg:flex-row mt-4 text-center">
             <div class="md:flex w-full m-0  object-center">
-                <div class="bg-white md:w-2/4 h-64 mt-2 p-6 border-2 border-black content-center">
-                    <img src="../assets/images/browse.jpg" alt="">
+                <div class="bg-white md:w-2/4 h-64 mt-2 p-6 border-2 border-black">
+                    <img src="../assets/images/browse.jpg" alt="Browse Icon" class="object-none object-center">
                     <h1>Browse Products</h1>
                 </div>
                 <div class="bg-white md:w-2/4 h-64 md:ml-2 mt-2 p-6 border-2 border-black">
