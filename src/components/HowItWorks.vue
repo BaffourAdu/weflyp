@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-blue-300 h-auto xl:px-48 md:p-12 p-6">
+    <div class="bg-blue-300 h-auto py-12 xl:px-48 md:px-12 px-6">
         <div class="bg-white w-full h-32">
             <h1>Some Content here</h1>
         </div>
