@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white h-auto py-12 xl:px-64 md:px-8 px-6 mb-4">
+    <div class="bg-white h-auto py-12 xl:px-64 md:px-8 px-6 mb-16">
         <div class="bg-white w-full h-54 p-6">
             <h1 class="lg:text-5xl text-3xl leading-tight text-gray-800 tracking-wider font-semibold">How does WeFlyp work?</h1>
             <p class="md:text-xl text-lg py-4 leading-snug tracking-wide text-gray-700">
@@ -10,10 +10,10 @@
         <div class="w-full flex flex-col md:flex-shrink lg:flex-row mt-4 text-center">
             <div class="md:flex w-full m-0  object-center">
                 <div class="flex flex-col justify-center items-center bg-white md:w-2/4 h-64 mt-4 lg:ml-2 p-6">
-                    <img class="h-32" src="../assets/images/browse.jpg" alt="Browse Icon">
-                    <h1 class="text-xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">1. Browse Products</h1>
+                    <img class="h-24 mb-2 mt-4" src="../assets/images/browse.jpg" alt="Browse Icon">
+                    <h1 class="text-xl leading-tight text-gray-800 tracking-wider font-semibold mt-4">1. Browse Products</h1>
                     <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-4">Choose the products you want to 
-                        sell from the best suppliers globally</p>
+                        sell from the best suppliers</p>
                 </div>
                 <div class="flex flex-col justify-center items-center bg-white md:w-2/4 h-64 md:ml-2 mt-4 p-6">
                     <img class="h-24 mb-2 mt-4" src="../assets/images/share.png" alt="Share Icon">
