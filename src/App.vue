@@ -28,5 +28,13 @@ export default {
 </script>
 
 <style>
-
+* {
+  font-family: 'Nunito', sans-serif;
+}
+h1 {
+  font-family: 'Bree Serif', serif;
+}
+html {
+  scroll-behavior: smooth;
+}
 </style>
