@@ -32,7 +32,7 @@ export default {
   font-family: 'Nunito', sans-serif;
 }
 h1 {
-  font-family: 'Nunito', sans-serif;
+font-family: 'Bree Serif', serif;
 }
 html {
   scroll-behavior: smooth;
