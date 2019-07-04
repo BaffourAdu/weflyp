@@ -1,5 +1,5 @@
 <template>
-    <header class="h-full mb-4">
+    <header class="h-full">
         <div class="bg-cover bg-center bg-auto top-header relative" style="height: 40vh;">
            <img src="../assets/images/torn.svg" alt="Torn Image" class="absolute inset-x-0 bottom-0">
         </div>
