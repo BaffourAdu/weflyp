@@ -14,8 +14,8 @@
             <img class="h-64 float-right" src="../assets/images/sell.jpg" alt="Delivery Icon">
           </div>
         </div>
-        <div class="md:flex mt-24 mb-24">
-          <div class="md:w-2/4 h-64 mt-2 py-12">
+        <div class="flex sm:flex-row flex-col mt-24 mb-24">
+          <div class="md:w-2/4 h-64 mt-2 mb-10 py-12">
             <img class="h-64 float-left" src="../assets/images/social.jpg" alt="Delivery Icon">
           </div>
           <div class="md:w-2/4 h-64 mt-2 md:ml-2">
