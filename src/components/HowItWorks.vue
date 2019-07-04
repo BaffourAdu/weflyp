@@ -1,14 +1,14 @@
 <template>
     <div class="bg-white h-auto py-12 xl:px-64 md:px-8 px-6 mb-16">
-        <div class="bg-white w-full h-54 p-6">
+        <div class="bg-white w-full h-54 px-6">
             <h1 class="lg:text-5xl text-3xl leading-tight text-gray-800 tracking-wider font-semibold">How does WeFlyp work?</h1>
             <p class="md:text-xl text-lg py-4 leading-snug tracking-wide text-gray-700">
                 Reselling with WeFlyp is as easy as sharing pictures 
                 with your customers. Earn high profit margins & weekly bonus. No more up front inventory costs or shipping logistics.  
             </p>
         </div>
-        <div class="w-full flex flex-col md:flex-shrink lg:flex-row mt-4 text-center">
-            <div class="md:flex w-full m-0  object-center">
+        <div class="w-full flex flex-col md:flex-shrink lg:flex-row text-center">
+            <div class="md:flex w-full m-0 object-center">
                 <div class="flex flex-col justify-center items-center bg-white md:w-2/4 h-64 mt-4 lg:ml-2 p-6">
                     <img class="h-24 mb-2 mt-4" src="../assets/images/browse.jpg" alt="Browse Icon">
                     <h1 class="text-xl leading-tight text-gray-800 tracking-wider font-semibold mt-4">1. Browse Products</h1>
