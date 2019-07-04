@@ -1,20 +1,31 @@
 <template>
-    <div class="bg-green-300 h-auto xl:px-48 md:p-12 p-6">
-      <div class="md:flex">
-        <div class="bg-white md:w-2/4 h-64 mt-2">
-          <h1>Some Content here</h1>
+    <div class="h-auto py-24 xl:px-64 sm:px-4 px-8" style="background-color: #F5F6FB">
+      <div class="lg:w-2/3 mx-auto">
+        <div class="flex sm:flex-row flex-col-reverse">
+          <div class=" md:w-3/4 h-64 mt-2 py-12">
+            <h1 class="text-3xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">Start your business journey</h1>
+            <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-2 mt-4">
+              Anyone can Resell with WeFlyp - students, housewives, boutique owners, teachers, professionals etc.
+              Start your own business without loans or personal savings. There is No Limit to How Much You can Sell 
+              or Earn. 
+            </p>
+          </div>
+          <div class="md:w-2/4 h-64 mt-2 md:ml-2">
+            <img class="h-64 float-right" src="../assets/images/sell.jpg" alt="Delivery Icon">
+          </div>
         </div>
-        <div class="bg-white md:w-2/4 h-64 mt-2 md:ml-2">
-          <h1>Some Content here</h1>
-        </div>
-      </div>
-      <div class="md:flex">
-        <div class="bg-white md:w-2/4 h-64 mt-2">
-          <h1>Some Content here</h1>
-        </div>
-        <div class="bg-white md:w-2/4 h-64 mt-2 md:ml-2">
-          <h1>Some Content here</h1>
-        </div>
+        <div class="md:flex mt-24 mb-24">
+          <div class="md:w-2/4 h-64 mt-2 py-12">
+            <img class="h-64 float-left" src="../assets/images/social.jpg" alt="Delivery Icon">
+          </div>
+          <div class="md:w-2/4 h-64 mt-2 md:ml-2">
+            <h1 class="text-3xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">Turn family, friend & followers into customers</h1>
+            <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-2 mt-4">
+              Pick the products you can sell most and share pictures these products with your Family, Friends and followers either through 
+              WhatsApp, Facebook, Instagram, Twitter or any social app or channel. Register and start earning from home today!
+            </p>
+          </div>
+        </div>  
       </div>
     </div>
 </template>

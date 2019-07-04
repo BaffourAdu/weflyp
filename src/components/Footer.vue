@@ -1,6 +1,6 @@
 <template>
-    <div class="w-full bg-gray-400 h-32 xl:px-48 md:p-12 p-6">
-        <h1>Some Content here</h1>
+    <div class="float-right bg-white h-auto pb-12">
+        <h1>© 2019 -  A product of SyncTech Technologies</h1>
     </div>
 </template>
 
