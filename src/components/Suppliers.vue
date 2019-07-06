@@ -1,6 +1,6 @@
 <template>
     <div class="bg-cover bg-center bg-auto w-full h-auto py-12 xl:px-64 md:px-8 px-4 mb-16 mt-64 mb-18 suppliers">
-      <div class="flex flex-col bg-white -mt-64 rounded-lg shadow-md h-auto xl:w-1/3 lg:w-3/5 md:2/3 w-full md:p-12 p-6">
+      <div class="flex flex-col bg-white -mt-64 rounded-lg shadow-md h-auto lg:w-3/6 md:2/3 w-full md:p-12 p-6">
         <h1 class="text-3xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">Sell your products through the largest distribution network </h1>
         <p class="md:text-lg text-base leading-normal tracking-wider text-gray-700 mt-2 mb-2 mt-6">
           Our team helps you list your products on WeFlyp. As your products go live on the app and our resellers share them with their WhatsApp, 

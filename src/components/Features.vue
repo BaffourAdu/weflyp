@@ -6,6 +6,7 @@
             <h1 class="text-3xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">Start your business journey</h1>
             <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-2 mt-4">
               Anyone can Resell with WeFlyp - students, housewives, boutique owners, teachers, professionals etc.
+              You can sell in person or online through WhatsApp, Facebook, Instagram or even Twitter.
               Start your own business without loans or personal savings. There is No Limit to How Much You can Sell 
               or Earn. 
             </p>
@@ -21,7 +22,8 @@
           <div class="md:w-3/5 h-64 mt-2 py-12 sm:px-12">
             <h1 class="text-3xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">Turn family, friend & followers into customers</h1>
             <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-2 mt-4">
-              Pick the products you can sell most and share pictures these products with your Family, Friends and followers either through 
+              WeFlyp gives you access to thousands of awesome products. Pick the products you can sell most and share pictures these products with your Family, 
+              Friends and followers either through 
               WhatsApp, Facebook, Instagram, Twitter or any social app or channel. Register and start earning from home today!
             </p>
           </div>
