@@ -28,7 +28,7 @@ export default {
 /*
 xl:px-48 md:p-8 p-6*/
 .top-header {
-    background-image: url('../assets/images/bg.svg');
+    background-image: url('../assets/images/bg.jpg');
     vertical-align: bottom;
 }
 </style>
