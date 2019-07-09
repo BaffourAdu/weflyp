@@ -1,5 +1,5 @@
 <template>
-    <div class="h-auto py-24 xl:px-64 sm:px-4 px-8" style="background-color: #F5F6FB">
+    <section class="h-auto py-24 xl:px-64 sm:px-4 px-8" style="background-color: #F5F6FB">
       <div class="md:w-11/12 mx-auto">
         <div class="flex sm:flex-row flex-col-reverse">
           <div class="md:w-3/4 h-64 mt-2 py-12 sm:px-12 lg:pr-48">
@@ -29,7 +29,7 @@
           </div>
         </div>  
       </div>
-    </div>
+    </section>
 </template>
 
 <script>

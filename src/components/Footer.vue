@@ -1,7 +1,7 @@
 <template>
-    <div class="bg-white float-right h-auto p-6">
-        <h1>© 2019 -  A product of SyncTech Technologies</h1>
-    </div>
+    <footer class="bg-purple-700 text-center text-white flex flex-col justify-center h-auto p-6">
+        <h1>© 2019 WeFlyp Inc.</h1>
+    </footer>
 </template>
 
 <script>
