@@ -11,13 +11,13 @@
               or Earn. 
             </p>
           </div>
-          <div class="md:w-2/4 h-64 mt-2 md:ml-2">
-            <img class="h-64 float-right" src="../assets/images/sell.jpg" alt="Delivery Icon">
+          <div class="md:w-2/4 h-64 mt-2 md:ml-2 text-center flex justify-center">
+            <img class="h-64" src="../assets/images/sell.jpg" alt="Start your business Image">
           </div>
         </div>
         <div class="flex sm:flex-row flex-col mt-24 mb-24">
-          <div class="md:w-2/4 h-64 mt-2 mb-10 py-12 lg:px-10">
-            <img class="h-64 float-left" src="../assets/images/social.jpg" alt="Delivery Icon">
+          <div class="md:w-2/4 h-64 mt-12 mb-10 py-12 lg:px-10 flex justify-center">
+            <img class="h-64 md:float-left" src="../assets/images/social.jpg" alt="Turn family Image">
           </div>
           <div class="md:w-3/5 h-64 mt-2 py-12 sm:px-12">
             <h1 class="text-3xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">Turn family, friend & followers into customers</h1>
