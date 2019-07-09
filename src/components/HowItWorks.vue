@@ -38,7 +38,7 @@
                         <path d="M108.8 64.3c.5 0 .9.4.9 1v.5c1.3.2 2.4.6 3.4 1.3.4.2.7.5.6 1.1 0 .7-.6 1.2-1.3 1.2-.2 0-.4-.1-.7-.2-.8-.5-1.5-.8-2.3-1l-.1 4.3c3.4.9 4.8 2.3 4.7 4.7-.1 2.4-2 4-4.8 4.2v1.3c0 .5-.4.9-1 .9-.5 0-1-.4-1-1v-1.4c-1.7-.2-3.2-.8-4.5-1.8-.4-.3-.6-.6-.6-1.1 0-.7.6-1.2 1.3-1.2.3 0 .5.1.7.3 1 .8 2 1.3 3.3 1.6l.1-4.4c-3.2-.9-4.7-2.2-4.7-4.7 0-2.4 2-4 4.8-4.2v-.5c.3-.5.7-.9 1.2-.9zm-1 7.6l.1-3.9c-1.4.1-2.2.8-2.2 1.8 0 .9.4 1.5 2.1 2.1zm1.7 3.1l-.1 4.1c1.4-.1 2.2-.8 2.2-1.9.1-1-.4-1.6-2.1-2.2z" fill="#fff"></path>
                     </svg>
                     <h1 class="text-xl leading-tight text-gray-800 tracking-wider font-semibold mt-4">2. Sell & Earn</h1>
-                    <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-4">Add your margins and sell anywhere wether in person or online</p>
+                    <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-4">Add your margins and sell anywhere whether in person or online</p>
                 </div>
             </div>
             <div class="md:flex w-full m-0">

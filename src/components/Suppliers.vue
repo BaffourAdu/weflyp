@@ -24,7 +24,7 @@
             <span class="-mt-px">We give you priority space for maximum visibility as you become popular</span>
           </li>
         </ul>
-        <div class="mt-8 mb-6">
+        <div class="mb-6 mt-12">
           <a href="https://forms.gle/36C1i3FsUbFbeP938" title="Become a Supplier" class="hover:bg-white text-white bg-purple-700 hover:text-purple-700 no-underline tracking-wide uppercase rounded-lg text-sm font-bold shadow-md hover:shadow py-4 px-6">
             Become a Supplier
           </a>

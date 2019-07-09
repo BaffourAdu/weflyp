@@ -23,8 +23,7 @@
             <h1 class="text-3xl leading-tight text-gray-800 tracking-wider font-semibold mt-2">Turn family, friend & followers into customers</h1>
             <p class="md:text-xl text-lg leading-snug tracking-wide text-gray-700 mt-2 mb-2 mt-4">
               WeFlyp gives you access to thousands of awesome products. Pick the products you can sell most and share pictures of these products with your Family, 
-              Friends and followers either through 
-              WhatsApp, Facebook, Instagram, Twitter or any social app or channel. Register and start earning from home today!
+              Friends and followers either through WhatsApp, Facebook, Instagram, Twitter or any social app or channel. Register and start earning from home today!
             </p>
           </div>
         </div>  
