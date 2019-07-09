@@ -8,7 +8,7 @@
             <p class="md:text-xl text-lg py-4 leading-snug mb-4 tracking-wide text-gray-700">One platform with all the ecommerce tools and features you need to start, run, and grow your business  <br class="lg:block hidden">
                  without the hassle of managing Inventory, Suppliers, Packaging, or Delivery.</p>
             <div>
-                <a href="#" title="Get Early Access" class="hover:bg-white text-white bg-purple-700 hover:text-purple-700 no-underline tracking-wide uppercase rounded-lg text-sm font-bold shadow-md hover:shadow py-4 px-6">
+                <a href="https://forms.gle/36C1i3FsUbFbeP938" title="Get Early Access" class="hover:bg-white text-white bg-purple-700 hover:text-purple-700 no-underline tracking-wide uppercase rounded-lg text-sm font-bold shadow-md hover:shadow py-4 px-6">
                     Get Early Access
                 </a>
             </div>
