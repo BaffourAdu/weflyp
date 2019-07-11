@@ -9,7 +9,7 @@
           </li>
           <li class="mt-3 flex">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-6 w-6 mt-px mr-3 flex-shrink-0"><circle cx="12" cy="12" r="10" class="text-purple-200 fill-current"></circle><path d="M10 14.59l6.3-6.3a1 1 0 0 1 1.4 1.42l-7 7a1 1 0 0 1-1.4 0l-3-3a1 1 0 0 1 1.4-1.42l2.3 2.3z" class="text-purple-600 fill-current"></path></svg>
-            <span class="-mt-px">Your products go live immediately on the app for our resellers share with their customers</span>
+            <span class="-mt-px">Your products go live immediately on the app for our resellers to share with their customers</span>
           </li>
           <li class="mt-3 flex">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-6 w-6 mt-px mr-3 flex-shrink-0"><circle cx="12" cy="12" r="10" class="text-purple-200 fill-current"></circle><path d="M10 14.59l6.3-6.3a1 1 0 0 1 1.4 1.42l-7 7a1 1 0 0 1-1.4 0l-3-3a1 1 0 0 1 1.4-1.42l2.3 2.3z" class="text-purple-600 fill-current"></path></svg>
