@@ -1,6 +1,6 @@
 <template>
     <footer class="bg-purple-700 text-center text-white flex flex-col justify-center h-auto p-6">
-        <h1>© 2019 WeFlyp Inc.</h1>
+      <h1>© 2019 WeFlyp Inc.</h1>
     </footer>
 </template>
 
